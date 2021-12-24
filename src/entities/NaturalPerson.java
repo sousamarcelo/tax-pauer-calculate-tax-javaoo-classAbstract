@@ -2,7 +2,7 @@ package entities;
 
 public class NaturalPerson extends TaxPayer {
 	
-	private static Double BASE_INCAME;
+	private static Double BASE_INCAME = 2000.00;
 	
 	
 	public Double healthExpense;
